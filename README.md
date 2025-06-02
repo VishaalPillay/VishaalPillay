@@ -81,12 +81,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=VishaalPillay&icon=8&color=red" />
-  </a>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishaalPillay/VishaalPillay/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishaalPillay/VishaalPillay/output/github-snake.svg" />
