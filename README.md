@@ -1,7 +1,7 @@
 <!-- Profile Header -->
-<div align="center">
- <font color="gold"><h1>Hiring Me?</h1></font>
-  <p>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=textBox&text=Hiring%20Me%3F&width=800&height=150&colorStops=%23FFD700,%23FFA500,%23FF8C00&fontSize=70" alt="Hiring Me?"/>
+</p>
     <strong>B.Tech CSE @ SRM Institute of Science and Technology</strong><br/>
     🚀 Aspiring Full-Stack Developer | 💻 Tech Enthusiast | ☁️ Cloud & DevOps Learner
   </p>
