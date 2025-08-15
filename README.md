@@ -5,6 +5,9 @@
     <strong>B.Tech CSE @ SRM Institute of Science and Technology</strong><br/>
     🚀 Aspiring Full-Stack Developer | 💻 Tech Enthusiast | ☁️ Cloud & DevOps Learner
   </p>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF4F00&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;" alt="Typing SVG" />
+  
 </div>
 
 ---
