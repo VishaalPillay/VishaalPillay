@@ -24,7 +24,8 @@
 
 ---
 
-<img src="<img width="350" height="350" alt="Image" src="https://github.com/user-attachments/assets/6e72d4ab-fefa-413a-8b87-7321d3aaaa3c" />"
+<!-- REPLACE THIS -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=669DB3&center=true&vCenter=true&width=400&lines=⚒️+TechStack" alt="Tech Stack" />
 
 
 
