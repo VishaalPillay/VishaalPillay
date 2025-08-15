@@ -24,9 +24,9 @@
 
 ---
 
-<!-- REPLACE THIS -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=669DB3&center=true&vCenter=true&width=400&lines=⚒️+TechStack" alt="Tech Stack" />
-
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=669DB3&center=true&vCenter=true&width=400&lines=⚒️+Tech+Stack" alt="⚒️ Tech Stack" />
+</div>
 
 
 <p align="center">
