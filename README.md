@@ -24,8 +24,8 @@
 
 ---
 
-<!-- NEW static version -->
-<img src="./assets/static_techstack_text.png" alt="⚒️ TechStack" width="400" />
+<img src="<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/6e72d4ab-fefa-413a-8b87-7321d3aaaa3c" />" alt="⚒️ TechStack" width="400" />
+
 
 
 <p align="center">
