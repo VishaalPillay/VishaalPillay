@@ -1,68 +1,33 @@
-<!-- Profile Header -->
+<h1 align="center" style="color:#FFD700;">🔥 Vishaal Pillay</h1>
+
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=textBox&text=Hiring%20Me%3F&width=800&height=150&colorStops=%23FFD700,%23FFA500,%23FF8C00&fontSize=70" alt="Hiring Me?"/>
+    👋 Hi, I'm <strong style="color:#FF4500;">Vishaal Pillay</strong>, a B.Tech Computer Science student at SRM Institute of Science and Technology.<br>
+    Passionate about building scalable software solutions, currently on the journey to become a <strong style="color:#FFD700;">Full-Stack Developer</strong>.
 </p>
-    <strong>B.Tech CSE @ SRM Institute of Science and Technology</strong><br/>
-    🚀 Aspiring Full-Stack Developer | 💻 Tech Enthusiast | ☁️ Cloud & DevOps Learner
-  </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF4F00&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;" alt="Typing SVG" />
-  
-</div>
+<p align="center">
+    💻 I enjoy working on both front-end and back-end technologies, turning ideas into interactive, real-world web applications.<br>
+    🌟 Currently sharpening my skills in <code style="background-color:#8B0000; color:#FFD700; padding:2px 6px; border-radius:3px;">JavaScript</code>, <code style="background-color:#8B0000; color:#FFD700; padding:2px 6px; border-radius:3px;">React</code>, <code style="background-color:#8B0000; color:#FFD700; padding:2px 6px; border-radius:3px;">Node.js</code>, <code style="background-color:#8B0000; color:#FFD700; padding:2px 6px; border-radius:3px;">MongoDB</code>, and <code style="background-color:#8B0000; color:#FFD700; padding:2px 6px; border-radius:3px;">Next.js</code>.<br>
+    🚀 Love hackathons, open-source collaboration, and learning through real-world development challenges.<br>
+    ☁️ Exploring cloud technologies & DevOps to become a well-rounded engineer.
+</p>
 
----
 
-<!-- About Me -->
-### 🚀 About Me  
-- 🎯 Passionate about creating **scalable software solutions**.  
-- 💡 Building **interactive, real-world web apps** with modern tech.  
-- 🌱 Currently exploring **JavaScript, React, Node.js, MongoDB, Next.js**.  
-- 💬 Love **hackathons**, **open-source**, and **real-world challenges**.  
 
 ---
 
-<!-- Tech Stack -->
 <h2 align="center" style="color:#e63946;">⚒️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <strong>Languages:</strong> JavaScript, Python, C, C++, Java <br/>
+  <strong>Frontend:</strong> HTML, CSS, React, Tailwind CSS <br/>
+  <strong>Backend:</strong> Node.js, Express.js <br/>
+  <strong>Database:</strong> MongoDB, MySQL <br/>
+  <strong>Tools:</strong> Git, GitHub, VS Code, Postman
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-<h2 align="center" style="color:#e63946;">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishaalPillay&theme=radical&hide_border=true&count_private=true&show_icons=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=VishaalPillay&theme=radical&hide_border=true" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaalPillay&theme=radical&hide_border=true&layout=compact" height="150"/>
-</div>
-
----
-
-<!-- GitHub Trophies -->
-<h2 align="center" style="color:#e63946;">🏆 Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishaalPillay&theme=radical&no-frame=true&margin-w=8" />
-</p>
-
----
-
-<!-- Social Links -->
 <h2 align="center" style="color:#e63946;">🌐 Connect with Me</h2>
 
 <p align="center">
@@ -73,7 +38,54 @@
 
 ---
 
-<!-- Snake Animation -->
+<h2 align="center" style="color:#e63946;">💻 Technologies I Use</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VishaalPillay/VishaalPillay/output/github-snake-dark.svg" alt="snake animation"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 </p>
+
+---
+
+<h2 align="center" style="color:#e63946;">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishaalPillay&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=VishaalPillay&theme=shadow_red&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaalPillay&theme=shadow_red&hide_border=false&layout=compact" />
+</p>
+
+---
+
+<h2 align="center" style="color:#e63946;">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VishaalPillay&theme=radical&no-frame=false&no-bg=false&margin-w=6" />
+</p>
+
+---
+
+<h3 align="center" style="color:#e63946;">🔝 Top Contributed Repo</h3>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=VishaalPillay&limit=5&theme=shadow_red&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishaalPillay/VishaalPillay/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishaalPillay/VishaalPillay/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/VishaalPillay/VishaalPillay/output/github-snake.svg" />
+</picture>
+ this is my README file for github enhance it to be modern like i want it cool and to have a black and red theme
