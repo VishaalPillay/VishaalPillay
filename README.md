@@ -2,17 +2,25 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFD700&center=true&vCenter=true&width=600&lines=Hiring+Me?" alt="Typing SVG" />
 </div>
 
-<p align="center">
-    <span style="color:#DC143C;">👋 Hi, I'm</span> <b style="color:#FFD700;">Vishaal Pillay</b><span style="color:#DC143C;">, a B.Tech Computer Science student at SRM Institute of Science and Technology.</span><br>
-    <span style="color:#DC143C;">Passionate about building scalable software solutions, currently on the journey to become a</span> <b style="color:#FFD700;">Full-Stack Developer</b><span style="color:#DC143C;">.</span>
-</p>
+<div align="center">
+    
+**👋 Hi, I'm Vishaal Pillay, a B.Tech Computer Science student at SRM Institute of Science and Technology.**
 
-<p align="center">
-    <span style="color:#DC143C;">💻 I enjoy working on both front-end and back-end technologies, turning ideas into interactive, real-world web applications.</span><br>
-    <span style="color:#DC143C;">🌟 Currently sharpening my skills in</span> <code style="background-color:#8B0000; color:#FFD700; padding:2px 6px; border-radius:3px;">JavaScript</code><span style="color:#DC143C;">,</span> <code style="background-color:#8B0000; color:#FFD700; padding:2px 6px; border-radius:3px;">React</code><span style="color:#DC143C;">,</span> <code style="background-color:#8B0000; color:#FFD700; padding:2px 6px; border-radius:3px;">Node.js</code><span style="color:#DC143C;">,</span> <code style="background-color:#8B0000; color:#FFD700; padding:2px 6px; border-radius:3px;">MongoDB</code><span style="color:#DC143C;">, and</span> <code style="background-color:#8B0000; color:#FFD700; padding:2px 6px; border-radius:3px;">Next.js</code><span style="color:#DC143C;">.</span><br>
-    <span style="color:#DC143C;">🚀 Love hackathons, open-source collaboration, and learning through real-world development challenges.</span><br>
-    <span style="color:#DC143C;">☁️ Exploring cloud technologies & DevOps to become a well-rounded engineer.</span>
-</p>
+**Passionate about building scalable software solutions, currently on the journey to become a Full-Stack Developer.**
+
+</div>
+
+<div align="center">
+    
+**💻 I enjoy working on both front-end and back-end technologies, turning ideas into interactive, real-world web applications.**
+
+**🌟 Currently sharpening my skills in `JavaScript`, `React`, `Node.js`, `MongoDB`, and `Next.js`.**
+
+**🚀 Love hackathons, open-source collaboration, and learning through real-world development challenges.**
+
+**☁️ Exploring cloud technologies & DevOps to become a well-rounded engineer.**
+
+</div>
 
 ---
 
@@ -20,12 +28,27 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=400&lines=⚒️+Tech+Stack" alt="Tech Stack" />
 </div>
 
-<p align="center" style="color:#DC143C;">
-  <strong style="color:#FFD700;">Languages:</strong> <span style="color:#DC143C;">JavaScript, Python, C, C++, Java</span><br/>
-  <strong style="color:#FFD700;">Frontend:</strong> <span style="color:#DC143C;">HTML, CSS, React, Tailwind CSS</span><br/>
-  <strong style="color:#FFD700;">Backend:</strong> <span style="color:#DC143C;">Node.js, Express.js</span><br/>
-  <strong style="color:#FFD700;">Database:</strong> <span style="color:#DC143C;">MongoDB, MySQL</span><br/>
-  <strong style="color:#FFD700;">Tools:</strong> <span style="color:#DC143C;">Git, GitHub, VS Code, Postman</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-FFD700?style=for-the-badge&logo=c&logoColor=8B0000"/>
+  <img src="https://img.shields.io/badge/C++-DC143C?style=for-the-badge&logo=c%2B%2B&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=openjdk&logoColor=8B0000"/>
+  <img src="https://img.shields.io/badge/JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=8B0000"/>
+  <img src="https://img.shields.io/badge/HTML5-DC143C?style=for-the-badge&logo=html5&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=8B0000"/>
+  <img src="https://img.shields.io/badge/React-DC143C?style=for-the-badge&logo=react&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-FFD700?style=for-the-badge&logo=tailwind-css&logoColor=8B0000"/>
+  <img src="https://img.shields.io/badge/Node.js-DC143C?style=for-the-badge&logo=node.js&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Express.js-FFD700?style=for-the-badge&logo=express&logoColor=8B0000"/>
+  <img src="https://img.shields.io/badge/MongoDB-DC143C?style=for-the-badge&logo=mongodb&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/MySQL-FFD700?style=for-the-badge&logo=mysql&logoColor=8B0000"/>
+  <img src="https://img.shields.io/badge/Next.js-DC143C?style=for-the-badge&logo=next.js&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=8B0000"/>
+  <img src="https://img.shields.io/badge/GitHub-DC143C?style=for-the-badge&logo=github&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/VS_Code-FFD700?style=for-the-badge&logo=visual%20studio%20code&logoColor=8B0000"/>
+  <img src="https://img.shields.io/badge/Postman-DC143C?style=for-the-badge&logo=postman&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FFD700?style=for-the-badge&logo=tensorflow&logoColor=8B0000"/>
+  <img src="https://img.shields.io/badge/PyTorch-DC143C?style=for-the-badge&logo=PyTorch&logoColor=FFD700"/>
 </p>
 
 ---
@@ -38,27 +61,6 @@
   <a href="https://www.instagram.com/vishaal.pillay/"><img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=DC143C" /></a>
   <a href="https://www.linkedin.com/in/vishaal-pillay-a63527348/"><img src="https://img.shields.io/badge/LinkedIn-DC143C?style=for-the-badge&logo=linkedin&logoColor=FFD700" /></a>
   <a href="mailto:vishaalpillay18@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=DC143C" /></a>
-</p>
-
----
-
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=💻+Technologies+I+Use" alt="Technologies" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-FFD700?style=for-the-badge&logo=c&logoColor=8B0000"/>
-  <img src="https://img.shields.io/badge/C++-DC143C?style=for-the-badge&logo=c%2B%2B&logoColor=FFD700"/>
-  <img src="https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=openjdk&logoColor=8B0000"/>
-  <img src="https://img.shields.io/badge/JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=FFD700"/>
-  <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=8B0000"/>
-  <img src="https://img.shields.io/badge/React-DC143C?style=for-the-badge&logo=react&logoColor=FFD700"/>
-  <img src="https://img.shields.io/badge/Node.js-FFD700?style=for-the-badge&logo=node.js&logoColor=8B0000"/>
-  <img src="https://img.shields.io/badge/MongoDB-DC143C?style=for-the-badge&logo=mongodb&logoColor=FFD700"/>
-  <img src="https://img.shields.io/badge/MySQL-FFD700?style=for-the-badge&logo=mysql&logoColor=8B0000"/>
-  <img src="https://img.shields.io/badge/Next.js-DC143C?style=for-the-badge&logo=next.js&logoColor=FFD700"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FFD700?style=for-the-badge&logo=tensorflow&logoColor=8B0000"/>
-  <img src="https://img.shields.io/badge/PyTorch-DC143C?style=for-the-badge&logo=PyTorch&logoColor=FFD700"/>
 </p>
 
 ---
