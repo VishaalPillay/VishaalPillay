@@ -1,13 +1,15 @@
-<h1 align="center" style="color:#FFD700;">🔥 Vishaal Pillay</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFD700&center=true&vCenter=true&width=600&lines=🔥+Vishaal+Pillay" alt="Typing SVG" />
+</div>
 
 <p align="center">
-    👋 Hi, I'm <strong style="color:#FF4500;">Vishaal Pillay</strong>, a B.Tech Computer Science student at SRM Institute of Science and Technology.<br>
-    Passionate about building scalable software solutions, currently on the journey to become a <strong style="color:#FFD700;">Full-Stack Developer</strong>.
+    👋 Hi, I'm <b>Vishaal Pillay</b>, a B.Tech Computer Science student at SRM Institute of Science and Technology.<br>
+    Passionate about building scalable software solutions, currently on the journey to become a <b>Full-Stack Developer</b>.
 </p>
 
 <p align="center">
     💻 I enjoy working on both front-end and back-end technologies, turning ideas into interactive, real-world web applications.<br>
-    🌟 Currently sharpening my skills in <code style="background-color:#8B0000; color:#FFD700; padding:2px 6px; border-radius:3px;">JavaScript</code>, <code style="background-color:#8B0000; color:#FFD700; padding:2px 6px; border-radius:3px;">React</code>, <code style="background-color:#8B0000; color:#FFD700; padding:2px 6px; border-radius:3px;">Node.js</code>, <code style="background-color:#8B0000; color:#FFD700; padding:2px 6px; border-radius:3px;">MongoDB</code>, and <code style="background-color:#8B0000; color:#FFD700; padding:2px 6px; border-radius:3px;">Next.js</code>.<br>
+    🌟 Currently sharpening my skills in <code>JavaScript</code>, <code>React</code>, <code>Node.js</code>, <code>MongoDB</code>, and <code>Next.js</code>.<br>
     🚀 Love hackathons, open-source collaboration, and learning through real-world development challenges.<br>
     ☁️ Exploring cloud technologies & DevOps to become a well-rounded engineer.
 </p>
