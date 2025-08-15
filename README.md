@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
- <h1 style="color:#FFD700;">Hiring Me?</h1>
+ <font color="gold"><h1>Hiring Me?</h1></font>
   <p>
     <strong>B.Tech CSE @ SRM Institute of Science and Technology</strong><br/>
     🚀 Aspiring Full-Stack Developer | 💻 Tech Enthusiast | ☁️ Cloud & DevOps Learner
