@@ -24,10 +24,11 @@
 
 ---
 
-<!-- WITH THIS -->
-<svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="50%" font-family="JetBrains Mono, monospace" font-weight="700" font-size="28" fill="#669DB3" text-anchor="middle" dominant-baseline="middle">⚒️ TechStack</text>
-</svg>
+<div align="center">
+    <svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
+        <text x="50%" y="50%" font-family="JetBrains Mono, monospace" font-weight="700" font-size="28" fill="#669DB3" text-anchor="middle" dominant-baseline="middle">⚒️ TechStack</text>
+    </svg>
+</div>
 
 
 <p align="center">
