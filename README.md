@@ -24,9 +24,11 @@
 
 ---
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=669DB3&center=true&vCenter=true&width=400&lines=⚒️+TechStack" alt="Tech Stack" />
-</div>
+<!-- WITH THIS -->
+<svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" font-family="JetBrains Mono, monospace" font-weight="700" font-size="28" fill="#669DB3" text-anchor="middle" dominant-baseline="middle">⚒️ TechStack</text>
+</svg>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-669DB3?style=for-the-badge&logo=c&logoColor=F0F6F7"/>
