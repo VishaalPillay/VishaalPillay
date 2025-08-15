@@ -91,16 +91,6 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=669DB3&center=true&vCenter=true&width=500&lines=🔝+Top+Contributed+Repo" alt="Top Repo" />
-</div>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=VishaalPillay&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=669DB3&text_color=A89C94" />
-</p>
-
----
-
-<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=669DB3&center=true&vCenter=true&width=600&lines=🐍+Contribution+Snake" alt="Snake Animation" />
 </div>
 
@@ -113,11 +103,5 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=A89C94&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+Let's+connect+and+build+something+amazing+together!" alt="Footer" />
-</div>
-
-<div align="center">
-    
-![#669DB3](https://via.placeholder.com/15/669DB3/669DB3.png) `Steel Blue` ![#F0F6F7](https://via.placeholder.com/15/F0F6F7/F0F6F7.png) `Light Gray` ![#A89C94](https://via.placeholder.com/15/A89C94/A89C94.png) `Warm Gray` ![#FF4F58](https://via.placeholder.com/15/FF4F58/FF4F58.png) `Coral Red`
-    
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=A89C94&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!" alt="Footer" />
 </div>
