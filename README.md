@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=669DB3&center=true&vCenter=true&width=400&lines=⚒️+Tech+Stack" alt="⚒️ Tech Stack" />
+    <h2><img src="https://raw.githubusercontent.com/VishaalPillay/VishaalPillay/main/assets/static_techstack_text.png" alt="⚒️ Tech Stack" height="40"/></h2>
 </div>
 
 
@@ -55,7 +55,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=669DB3&center=true&vCenter=true&width=400&lines=🌐+Connect+with+Me" alt="Connect" />
+    <h2>🌐 Connect with Me</h2>
 </div>
 
 <p align="center">
@@ -67,32 +67,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=669DB3&center=true&vCenter=true&width=400&lines=📊+GitHub+Stats" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VishaalPillay&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=669DB3&icon_color=FF4F58&text_color=A89C94" />
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=VishaalPillay&theme=radical&hide_border=true&background=0d1117&ring=669DB3&fire=FF4F58&currStreakLabel=669DB3&sideLabels=669DB3&currStreakNum=A89C94&sideNums=A89C94" />
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaalPillay&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=669DB3&text_color=A89C94" />
-</div>
-
----
-
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=669DB3&center=true&vCenter=true&width=450&lines=🏆+GitHub+Trophies" alt="Trophies" />
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishaalPillay&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
-
----
-
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=669DB3&center=true&vCenter=true&width=600&lines=🐍+Contribution+Snake" alt="Snake Animation" />
+    <h2>🐍 Contribution Snake</h2>
 </div>
 
 <picture>
