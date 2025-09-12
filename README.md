@@ -2,6 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2800&pause=2000&color=669DB3&center=true&vCenter=true&width=800&lines=Hiring+Me?" alt="Typing SVG" />
 </div>
 
+---
+
 <div align="center">
     
 **👋 Hi, I'm Vishaal Pillay, a B.Tech Computer Science student at SRM Institute of Science and Technology.**
