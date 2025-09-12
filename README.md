@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-    <h2><img src="https://raw.githubusercontent.com/VishaalPillay/VishaalPillay/main/assets/static_techstack_text.png" alt="⚒️ Tech Stack" height="40"/></h2>
+    <h2>⚒️ Tech Stack</h2>
 </div>
 
 
