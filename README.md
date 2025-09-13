@@ -20,8 +20,6 @@
 
 **🚀 Love hackathons, open-source collaboration, and learning through real-world development challenges.**
 
-**☁️ Exploring cloud technologies & DevOps to become a well-rounded engineer.**
-
 </div>
 
 ---
