@@ -18,7 +18,6 @@
 
 **🌟 Currently sharpening my skills in `JavaScript`, `React`, `Node.js`, `MongoDB`, and `Next.js`.**
 
-**🚀 Love hackathons, open-source collaboration, and learning through real-world development challenges.**
 
 </div>
 
