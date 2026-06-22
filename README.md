@@ -8,7 +8,7 @@
     
 **👋 Hi, I'm Vishaal Pillay, a B.Tech Computer Science student at SRM Institute of Science and Technology.**
 
-**Passionate about building scalable software solutions, currently on the journey to become a Full-Stack Developer.**
+**Passionate about building scalable software solutions, currently on the journey to become a AI-Engineer.**
 
 </div>
 
