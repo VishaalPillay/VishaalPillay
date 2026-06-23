@@ -6,7 +6,7 @@
 
 <div align="center">
     
-**👋 Hi, I'm Vishaal Pillay, a B.Tech Computer Science student at SRM Institute of Science and Technology.**
+** Hi, I'm Vishaal Pillay, a B.Tech Computer Science student at SRM Institute of Science and Technology.**
 
 **Passionate about building scalable software solutions, currently on the journey to become a AI-Engineer.**
 
