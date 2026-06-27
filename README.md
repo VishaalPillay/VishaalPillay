@@ -1,26 +1,29 @@
 <!-- ============================================================= -->
 <!--  VISHAAL PILLAY · README  ·  theme: black / white / chrome    -->
-<!--  Header + tech marquee are committed SVGs in /assets          -->
+<!--  Header + Footer are custom PNG banners in /assets            -->
 <!-- ============================================================= -->
 
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Vishaal Pillay — AI Engineer" />
+  <img src="./assets/header-path.png" width="100%" alt="Vishaal Pillay — AI Engineer · Software Dev." />
 </div>
 
 <br/>
 
+<!-- ===================== TYPING TAGLINE ===================== -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1600&color=C4C8CE&center=true&vCenter=true&width=620&lines=Machine+Learning+%C3%97+Full-Stack+Engineering;Turning+ideas+into+production-grade+systems;Always+building." alt="typing tagline" />
 </div>
 
 <br/>
 
+<!-- ===================== BIO ===================== -->
 <div align="center">
 
 **B.Tech Computer Science · SRM Institute of Science and Technology**
 
-I'm an **AI Engineer** in the making — I build scalable, intelligent systems that bridge
-applied machine learning with clean, production-grade full-stack engineering.
+I build scalable, intelligent systems that bridge applied machine learning with
+clean, production-grade full-stack engineering.
 From model to interface, I like owning the whole pipeline.
 
 </div>
@@ -78,7 +81,7 @@ From model to interface, I like owning the whole pipeline.
 
 <br/>
 
-<!-- ===================== CONTRIBUTION SNAKE (kept) ===================== -->
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
 <div align="center">
   <h3>🐍&nbsp;&nbsp;C O N T R I B U T I O N&nbsp;&nbsp;S N A K E</h3>
 </div>
@@ -94,5 +97,5 @@ From model to interface, I like owning the whole pipeline.
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=3000&color=6B6F77&center=true&vCenter=true&width=420&lines=Thanks+for+stopping+by.+Let's+build+something." alt="footer" />
+  <img src="./assets/footer-path.png" width="100%" alt="Vishaal Pillay — PILLAY · AI Engineer · Software Developer" />
 </div>
