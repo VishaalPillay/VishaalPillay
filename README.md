@@ -66,16 +66,13 @@ From model to interface, I like owning the whole pipeline.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishaal-pillay-a63527348/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0B" alt="LinkedIn" />
+    <img src="./assets/connect-linkedin.svg" height="50" alt="LinkedIn" />
   </a>
   <a href="mailto:vishaalpillay18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A0A0B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0B" alt="Email" />
+    <img src="./assets/connect-email.svg" height="50" alt="Email" />
   </a>
   <a href="https://www.instagram.com/vishaal.pillay/">
-    <img src="https://img.shields.io/badge/Instagram-0A0A0B?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0B" alt="Instagram" />
-  </a>
-  <a href="https://github.com/VishaalPillay">
-    <img src="https://img.shields.io/badge/GitHub-0A0A0B?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0B" alt="GitHub" />
+    <img src="./assets/connect-instagram.svg" height="50" alt="Instagram" />
   </a>
 </p>
 
