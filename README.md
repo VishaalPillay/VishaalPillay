@@ -1,82 +1,101 @@
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2800&pause=2000&color=669DB3&center=true&vCenter=true&width=800&lines=Hiring+Me?" alt="Typing SVG" />
-</div>
-
----
-
-<div align="center">
-    
-**Hi, I'm Vishaal Pillay, a B.Tech Computer Science student at SRM Institute of Science and Technology.**
-
-**Passionate about building scalable software solutions, currently on the journey to become a AI-Engineer.**
-
-</div>
+<!-- ============================================================= -->
+<!--  VISHAAL PILLAY · README  ·  theme: black / white / chrome    -->
+<!--  Header + tech marquee are committed SVGs in /assets          -->
+<!-- ============================================================= -->
 
 <div align="center">
-    
-**💻 I enjoy working on both front-end and back-end technologies, turning ideas into interactive, real-world web applications.**
-
-**🌟 Currently sharpening my skills in `JavaScript`, `React`, `Node.js`, `MongoDB`, and `Next.js`.**
-
-
+  <img src="./assets/header.svg" width="100%" alt="Vishaal Pillay — AI Engineer" />
 </div>
 
----
+<br/>
 
 <div align="center">
-    <h2>⚒️ Tech Stack</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1600&color=C4C8CE&center=true&vCenter=true&width=620&lines=Machine+Learning+%C3%97+Full-Stack+Engineering;Turning+ideas+into+production-grade+systems;Always+building." alt="typing tagline" />
 </div>
 
+<br/>
+
+<div align="center">
+
+**B.Tech Computer Science · SRM Institute of Science and Technology**
+
+I'm an **AI Engineer** in the making — I build scalable, intelligent systems that bridge
+applied machine learning with clean, production-grade full-stack engineering.
+From model to interface, I like owning the whole pipeline.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`◇ Applied ML & deep learning`&nbsp;&nbsp;·&nbsp;&nbsp;`◇ Full-stack web`&nbsp;&nbsp;·&nbsp;&nbsp;`◇ Scalable backends`&nbsp;&nbsp;·&nbsp;&nbsp;`◇ Clean architecture`
+
+</div>
+
+<br/>
+
+<!-- ===================== TECH STACK (rolling) ===================== -->
+<div align="center">
+  <h3>⚙&nbsp;&nbsp;T E C H&nbsp;&nbsp;S T A C K</h3>
+  <img src="./assets/tech-marquee.svg" width="100%" alt="Rolling tech stack" />
+</div>
+
+<br/>
+
+<!-- ===================== GITHUB STATS ===================== -->
+<div align="center">
+  <h3>📊&nbsp;&nbsp;B Y&nbsp;&nbsp;T H E&nbsp;&nbsp;N U M B E R S</h3>
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VishaalPillay&show_icons=true&hide_border=true&bg_color=0A0A0B&title_color=FFFFFF&text_color=B8BCC4&icon_color=D6D9DE&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaalPillay&layout=compact&hide_border=true&bg_color=0A0A0B&title_color=FFFFFF&text_color=B8BCC4&langs_count=8" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=VishaalPillay&hide_border=true&background=0A0A0B&border=2A2D33&stroke=2A2D33&ring=FFFFFF&fire=D6D9DE&currStreakLabel=FFFFFF&sideLabels=B8BCC4&dates=6B6F77&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+</div>
+
+<br/>
+
+<!-- ===================== CONNECT ===================== -->
+<div align="center">
+  <h3>🔗&nbsp;&nbsp;C O N N E C T</h3>
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-669DB3?style=for-the-badge&logo=c&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/C++-FF4F58?style=for-the-badge&logo=c%2B%2B&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/Java-669DB3?style=for-the-badge&logo=openjdk&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/JavaScript-FF4F58?style=for-the-badge&logo=javascript&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/Python-669DB3?style=for-the-badge&logo=python&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/HTML5-FF4F58?style=for-the-badge&logo=html5&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/CSS3-669DB3?style=for-the-badge&logo=css3&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/React-FF4F58?style=for-the-badge&logo=react&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-669DB3?style=for-the-badge&logo=tailwind-css&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/Node.js-FF4F58?style=for-the-badge&logo=node.js&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/Express.js-669DB3?style=for-the-badge&logo=express&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/MongoDB-FF4F58?style=for-the-badge&logo=mongodb&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/MySQL-669DB3?style=for-the-badge&logo=mysql&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/Next.js-FF4F58?style=for-the-badge&logo=next.js&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/Git-669DB3?style=for-the-badge&logo=git&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/GitHub-FF4F58?style=for-the-badge&logo=github&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/VS_Code-669DB3?style=for-the-badge&logo=visual%20studio%20code&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/Postman-FF4F58?style=for-the-badge&logo=postman&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/TensorFlow-669DB3?style=for-the-badge&logo=tensorflow&logoColor=F0F6F7"/>
-  <img src="https://img.shields.io/badge/PyTorch-FF4F58?style=for-the-badge&logo=PyTorch&logoColor=F0F6F7"/>
+  <a href="https://www.linkedin.com/in/vishaal-pillay-a63527348/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0B" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vishaalpillay18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0B" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/vishaal.pillay/">
+    <img src="https://img.shields.io/badge/Instagram-0A0A0B?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0B" alt="Instagram" />
+  </a>
+  <a href="https://github.com/VishaalPillay">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0B?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0B" alt="GitHub" />
+  </a>
 </p>
 
----
+<br/>
 
+<!-- ===================== CONTRIBUTION SNAKE (kept) ===================== -->
 <div align="center">
-    <h2>🌐 Connect with Me</h2>
-</div>
-
-<p align="center">
-  <a href="https://www.instagram.com/vishaal.pillay/"><img src="https://img.shields.io/badge/Instagram-669DB3?style=for-the-badge&logo=instagram&logoColor=F0F6F7" /></a>
-  <a href="https://www.linkedin.com/in/vishaal-pillay-a63527348/"><img src="https://img.shields.io/badge/LinkedIn-FF4F58?style=for-the-badge&logo=linkedin&logoColor=F0F6F7" /></a>
-  <a href="mailto:vishaalpillay18@gmail.com"><img src="https://img.shields.io/badge/Gmail-669DB3?style=for-the-badge&logo=gmail&logoColor=F0F6F7" /></a>
-</p>
-
----
-
-<div align="center">
-    <h2>🐍 Contribution Snake</h2>
+  <h3>🐍&nbsp;&nbsp;C O N T R I B U T I O N&nbsp;&nbsp;S N A K E</h3>
 </div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishaalPillay/VishaalPillay/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishaalPillay/VishaalPillay/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/VishaalPillay/VishaalPillay/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/VishaalPillay/VishaalPillay/output/github-snake.svg" />
 </picture>
 
----
+<br/>
+<br/>
 
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=A89C94&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=3000&color=6B6F77&center=true&vCenter=true&width=420&lines=Thanks+for+stopping+by.+Let's+build+something." alt="footer" />
 </div>
