@@ -12,7 +12,7 @@
 
 <!-- ===================== TYPING TAGLINE ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1600&color=C4C8CE&center=true&vCenter=true&width=620&lines=Machine+Learning+%C3%97+Full-Stack+Engineering;Turning+ideas+into+production-grade+systems;Always+building." alt="typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1600&color=C4C8CE&center=true&vCenter=true&width=620&lines=Developing+and+Integrating+Software+with+AI;Turning+Ideas+Into+Production-Grade+Systems;Always+Building." alt="typing tagline" />
 </div>
 
 <br/>
@@ -46,21 +46,6 @@ From model to interface, I like owning the whole pipeline.
 
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
-<div align="center">
-  <h3>📊&nbsp;&nbsp;B Y&nbsp;&nbsp;T H E&nbsp;&nbsp;N U M B E R S</h3>
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VishaalPillay&show_icons=true&hide_border=true&bg_color=0A0A0B&title_color=FFFFFF&text_color=B8BCC4&icon_color=D6D9DE&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaalPillay&layout=compact&hide_border=true&bg_color=0A0A0B&title_color=FFFFFF&text_color=B8BCC4&langs_count=8" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=VishaalPillay&hide_border=true&background=0A0A0B&border=2A2D33&stroke=2A2D33&ring=FFFFFF&fire=D6D9DE&currStreakLabel=FFFFFF&sideLabels=B8BCC4&dates=6B6F77&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
-</div>
-
-<br/>
 
 <!-- ===================== CONNECT ===================== -->
 <div align="center">
