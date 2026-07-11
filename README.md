@@ -40,35 +40,15 @@ From model to interface, I like owning the whole pipeline.
 
 <!-- ===================== TECH STACK (rolling) ===================== -->
 <div align="center">
-  <h3>⚙&nbsp;&nbsp;T E C H&nbsp;&nbsp;S T A C K</h3>
+  <h3><strong>&nbsp;&nbsp;TECHNICAL&nbsp;&nbsp;SKILLS</strong></h3>
   <img src="./assets/tech-marquee.svg" width="100%" alt="Rolling tech stack" />
 </div>
 
 <br/>
 
-
-<!-- ===================== CONNECT ===================== -->
-<div align="center">
-  <h3>🔗&nbsp;&nbsp;C O N N E C T</h3>
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishaal-pillay-a63527348/">
-    <img src="./assets/connect-linkedin.svg" height="50" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vishaalpillay18@gmail.com">
-    <img src="./assets/connect-email.svg" height="50" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/vishaal.pillay/">
-    <img src="./assets/connect-instagram.svg" height="50" alt="Instagram" />
-  </a>
-</p>
-
-<br/>
-
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 <div align="center">
-  <h3>🐍&nbsp;&nbsp;C O N T R I B U T I O N&nbsp;&nbsp;S N A K E</h3>
+  <h3><strong>&nbsp;&nbsp;CONTRIBUTION&nbsp;&nbsp;SNAKE</strong></h3>
 </div>
 
 <picture>
