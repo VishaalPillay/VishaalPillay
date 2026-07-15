@@ -1,0 +1,242 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Vishaal Pillay - terminal profile">
+  <defs>
+    <linearGradient id="winBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#131418"/><stop offset="100%" stop-color="#0a0a0b"/>
+    </linearGradient>
+    <linearGradient id="barBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1f2126"/><stop offset="100%" stop-color="#16171b"/>
+    </linearGradient>
+    <linearGradient id="winEdge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3a3d44"/><stop offset="50%" stop-color="#6b6f77"/>
+      <stop offset="100%" stop-color="#202228"/>
+    </linearGradient>
+    <linearGradient id="asciiGrad" x1="0" y1="44" x2="0" y2="610" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f2f3f5"/><stop offset="55%" stop-color="#b6bac1"/>
+      <stop offset="100%" stop-color="#6f737b"/>
+    </linearGradient>
+    <clipPath id="win"><rect x="0" y="0" width="1180" height="610" rx="16"/></clipPath>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" y="0" fill="#ffffff" opacity="0.022"/>
+    </pattern>
+    <clipPath id="tl0"><rect x="467.0" y="91.0" width="0" height="23"><animate attributeName="width" values="0.0;8.7;17.4;26.1;34.8;43.5;52.2;60.9;69.6;78.3;87.0;95.7;104.4;113.1;121.8;130.5;139.2;147.9;156.6;165.3;174.0;182.7;191.4;200.1;208.8;217.5;226.2;234.9;243.6;252.3;261.0;269.7;278.4;287.1;295.8;304.5;313.2;321.9;330.6;339.3;348.0;356.7;365.4;374.1;382.8;391.5;400.2;408.9;417.6;426.3;435.0;443.7" keyTimes="0.0000;0.0196;0.0392;0.0588;0.0784;0.0980;0.1176;0.1373;0.1569;0.1765;0.1961;0.2157;0.2353;0.2549;0.2745;0.2941;0.3137;0.3333;0.3529;0.3725;0.3922;0.4118;0.4314;0.4510;0.4706;0.4902;0.5098;0.5294;0.5490;0.5686;0.5882;0.6078;0.6275;0.6471;0.6667;0.6863;0.7059;0.7255;0.7451;0.7647;0.7843;0.8039;0.8235;0.8431;0.8627;0.8824;0.9020;0.9216;0.9412;0.9608;0.9804;1.0000" calcMode="discrete" begin="0.50s" dur="0.55s" fill="freeze"/></rect></clipPath>
+    <clipPath id="tl2"><rect x="467.0" y="137.8" width="0" height="23"><animate attributeName="width" values="0.0;8.7;17.4;26.1;34.8;43.5;52.2;60.9;69.6;78.3;87.0;95.7;104.4;113.1;121.8;130.5;139.2;147.9;156.6;165.3;174.0;182.7;191.4;200.1;208.8;217.5;226.2;234.9;243.6;252.3;261.0;269.7;278.4;287.1;295.8;304.5;313.2;321.9;330.6;339.3;348.0;356.7;365.4;374.1;382.8;391.5;400.2" keyTimes="0.0000;0.0217;0.0435;0.0652;0.0870;0.1087;0.1304;0.1522;0.1739;0.1957;0.2174;0.2391;0.2609;0.2826;0.3043;0.3261;0.3478;0.3696;0.3913;0.4130;0.4348;0.4565;0.4783;0.5000;0.5217;0.5435;0.5652;0.5870;0.6087;0.6304;0.6522;0.6739;0.6957;0.7174;0.7391;0.7609;0.7826;0.8043;0.8261;0.8478;0.8696;0.8913;0.9130;0.9348;0.9565;0.9783;1.0000" calcMode="discrete" begin="1.11s" dur="0.49s" fill="freeze"/></rect></clipPath>
+    <clipPath id="tl3"><rect x="467.0" y="161.2" width="0" height="23"><animate attributeName="width" values="0.0;8.7;17.4;26.1;34.8;43.5;52.2;60.9;69.6;78.3;87.0;95.7;104.4;113.1;121.8;130.5;139.2;147.9;156.6;165.3;174.0;182.7;191.4;200.1;208.8;217.5" keyTimes="0.0000;0.0400;0.0800;0.1200;0.1600;0.2000;0.2400;0.2800;0.3200;0.3600;0.4000;0.4400;0.4800;0.5200;0.5600;0.6000;0.6400;0.6800;0.7200;0.7600;0.8000;0.8400;0.8800;0.9200;0.9600;1.0000" calcMode="discrete" begin="1.66s" dur="0.26s" fill="freeze"/></rect></clipPath>
+    <clipPath id="tl4"><rect x="467.0" y="184.6" width="0" height="23"><animate attributeName="width" values="0.0;8.7;17.4;26.1;34.8;43.5;52.2;60.9;69.6;78.3;87.0;95.7;104.4;113.1;121.8;130.5;139.2;147.9;156.6;165.3;174.0;182.7;191.4;200.1;208.8;217.5;226.2;234.9;243.6;252.3" keyTimes="0.0000;0.0345;0.0690;0.1034;0.1379;0.1724;0.2069;0.2414;0.2759;0.3103;0.3448;0.3793;0.4138;0.4483;0.4828;0.5172;0.5517;0.5862;0.6207;0.6552;0.6897;0.7241;0.7586;0.7931;0.8276;0.8621;0.8966;0.9310;0.9655;1.0000" calcMode="discrete" begin="1.99s" dur="0.31s" fill="freeze"/></rect></clipPath>
+    <clipPath id="tl6"><rect x="467.0" y="231.4" width="0" height="23"><animate attributeName="width" values="0.0;8.7;17.4;26.1;34.8;43.5;52.2;60.9;69.6;78.3;87.0;95.7;104.4;113.1;121.8;130.5;139.2;147.9;156.6;165.3;174.0;182.7;191.4;200.1;208.8;217.5;226.2;234.9;243.6;252.3;261.0;269.7;278.4;287.1;295.8;304.5;313.2;321.9;330.6;339.3;348.0;356.7;365.4;374.1;382.8;391.5;400.2;408.9;417.6;426.3;435.0;443.7" keyTimes="0.0000;0.0196;0.0392;0.0588;0.0784;0.0980;0.1176;0.1373;0.1569;0.1765;0.1961;0.2157;0.2353;0.2549;0.2745;0.2941;0.3137;0.3333;0.3529;0.3725;0.3922;0.4118;0.4314;0.4510;0.4706;0.4902;0.5098;0.5294;0.5490;0.5686;0.5882;0.6078;0.6275;0.6471;0.6667;0.6863;0.7059;0.7255;0.7451;0.7647;0.7843;0.8039;0.8235;0.8431;0.8627;0.8824;0.9020;0.9216;0.9412;0.9608;0.9804;1.0000" calcMode="discrete" begin="2.36s" dur="0.55s" fill="freeze"/></rect></clipPath>
+    <clipPath id="tl7"><rect x="467.0" y="254.8" width="0" height="23"><animate attributeName="width" values="0.0;8.7;17.4;26.1;34.8;43.5;52.2;60.9;69.6;78.3;87.0;95.7;104.4;113.1;121.8;130.5;139.2;147.9;156.6;165.3;174.0;182.7;191.4;200.1;208.8;217.5;226.2;234.9;243.6;252.3" keyTimes="0.0000;0.0345;0.0690;0.1034;0.1379;0.1724;0.2069;0.2414;0.2759;0.3103;0.3448;0.3793;0.4138;0.4483;0.4828;0.5172;0.5517;0.5862;0.6207;0.6552;0.6897;0.7241;0.7586;0.7931;0.8276;0.8621;0.8966;0.9310;0.9655;1.0000" calcMode="discrete" begin="2.97s" dur="0.31s" fill="freeze"/></rect></clipPath>
+    <clipPath id="tl8"><rect x="467.0" y="278.2" width="0" height="23"><animate attributeName="width" values="0.0;8.7;17.4;26.1;34.8;43.5;52.2;60.9;69.6;78.3;87.0;95.7;104.4;113.1;121.8;130.5;139.2;147.9;156.6;165.3;174.0;182.7;191.4;200.1;208.8;217.5;226.2;234.9;243.6;252.3" keyTimes="0.0000;0.0345;0.0690;0.1034;0.1379;0.1724;0.2069;0.2414;0.2759;0.3103;0.3448;0.3793;0.4138;0.4483;0.4828;0.5172;0.5517;0.5862;0.6207;0.6552;0.6897;0.7241;0.7586;0.7931;0.8276;0.8621;0.8966;0.9310;0.9655;1.0000" calcMode="discrete" begin="3.33s" dur="0.31s" fill="freeze"/></rect></clipPath>
+    <clipPath id="tl9"><rect x="467.0" y="301.6" width="0" height="23"><animate attributeName="width" values="0.0;8.7;17.4;26.1;34.8;43.5;52.2;60.9;69.6;78.3;87.0;95.7;104.4;113.1;121.8;130.5;139.2;147.9;156.6;165.3;174.0;182.7;191.4;200.1;208.8;217.5;226.2;234.9;243.6;252.3;261.0;269.7;278.4;287.1;295.8;304.5;313.2;321.9;330.6;339.3;348.0" keyTimes="0.0000;0.0250;0.0500;0.0750;0.1000;0.1250;0.1500;0.1750;0.2000;0.2250;0.2500;0.2750;0.3000;0.3250;0.3500;0.3750;0.4000;0.4250;0.4500;0.4750;0.5000;0.5250;0.5500;0.5750;0.6000;0.6250;0.6500;0.6750;0.7000;0.7250;0.7500;0.7750;0.8000;0.8250;0.8500;0.8750;0.9000;0.9250;0.9500;0.9750;1.0000" calcMode="discrete" begin="3.70s" dur="0.43s" fill="freeze"/></rect></clipPath>
+    <clipPath id="tl11"><rect x="467.0" y="348.4" width="0" height="23"><animate attributeName="width" values="0.0;8.7;17.4;26.1;34.8;43.5;52.2;60.9;69.6;78.3;87.0;95.7;104.4;113.1;121.8;130.5;139.2;147.9;156.6;165.3;174.0;182.7;191.4;200.1;208.8;217.5;226.2;234.9;243.6;252.3;261.0;269.7;278.4;287.1;295.8;304.5;313.2;321.9;330.6;339.3;348.0;356.7;365.4;374.1;382.8;391.5;400.2;408.9;417.6;426.3;435.0;443.7" keyTimes="0.0000;0.0196;0.0392;0.0588;0.0784;0.0980;0.1176;0.1373;0.1569;0.1765;0.1961;0.2157;0.2353;0.2549;0.2745;0.2941;0.3137;0.3333;0.3529;0.3725;0.3922;0.4118;0.4314;0.4510;0.4706;0.4902;0.5098;0.5294;0.5490;0.5686;0.5882;0.6078;0.6275;0.6471;0.6667;0.6863;0.7059;0.7255;0.7451;0.7647;0.7843;0.8039;0.8235;0.8431;0.8627;0.8824;0.9020;0.9216;0.9412;0.9608;0.9804;1.0000" calcMode="discrete" begin="4.19s" dur="0.55s" fill="freeze"/></rect></clipPath>
+    <clipPath id="tl12"><rect x="467.0" y="371.8" width="0" height="23"><animate attributeName="width" values="0.0;8.7;17.4;26.1;34.8;43.5;52.2;60.9;69.6;78.3;87.0;95.7;104.4;113.1;121.8;130.5;139.2;147.9;156.6;165.3;174.0;182.7;191.4;200.1;208.8;217.5;226.2;234.9;243.6;252.3;261.0;269.7;278.4;287.1;295.8;304.5;313.2;321.9;330.6;339.3;348.0;356.7;365.4;374.1;382.8;391.5;400.2;408.9;417.6;426.3;435.0;443.7;452.4;461.1;469.8;478.5;487.2;495.9;504.6;513.3;522.0;530.7;539.4;548.1" keyTimes="0.0000;0.0159;0.0317;0.0476;0.0635;0.0794;0.0952;0.1111;0.1270;0.1429;0.1587;0.1746;0.1905;0.2063;0.2222;0.2381;0.2540;0.2698;0.2857;0.3016;0.3175;0.3333;0.3492;0.3651;0.3810;0.3968;0.4127;0.4286;0.4444;0.4603;0.4762;0.4921;0.5079;0.5238;0.5397;0.5556;0.5714;0.5873;0.6032;0.6190;0.6349;0.6508;0.6667;0.6825;0.6984;0.7143;0.7302;0.7460;0.7619;0.7778;0.7937;0.8095;0.8254;0.8413;0.8571;0.8730;0.8889;0.9048;0.9206;0.9365;0.9524;0.9683;0.9841;1.0000" calcMode="discrete" begin="4.80s" dur="0.68s" fill="freeze"/></rect></clipPath>
+    <clipPath id="tl13"><rect x="467.0" y="395.2" width="0" height="23"><animate attributeName="width" values="0.0;8.7;17.4;26.1;34.8;43.5;52.2;60.9;69.6;78.3;87.0;95.7;104.4;113.1;121.8;130.5;139.2;147.9;156.6;165.3;174.0;182.7;191.4;200.1;208.8;217.5;226.2;234.9;243.6;252.3;261.0;269.7;278.4;287.1;295.8;304.5;313.2;321.9;330.6;339.3;348.0;356.7;365.4;374.1;382.8;391.5;400.2;408.9;417.6;426.3;435.0;443.7;452.4;461.1;469.8;478.5;487.2;495.9;504.6;513.3;522.0;530.7;539.4;548.1;556.8;565.5" keyTimes="0.0000;0.0154;0.0308;0.0462;0.0615;0.0769;0.0923;0.1077;0.1231;0.1385;0.1538;0.1692;0.1846;0.2000;0.2154;0.2308;0.2462;0.2615;0.2769;0.2923;0.3077;0.3231;0.3385;0.3538;0.3692;0.3846;0.4000;0.4154;0.4308;0.4462;0.4615;0.4769;0.4923;0.5077;0.5231;0.5385;0.5538;0.5692;0.5846;0.6000;0.6154;0.6308;0.6462;0.6615;0.6769;0.6923;0.7077;0.7231;0.7385;0.7538;0.7692;0.7846;0.8000;0.8154;0.8308;0.8462;0.8615;0.8769;0.8923;0.9077;0.9231;0.9385;0.9538;0.9692;0.9846;1.0000" calcMode="discrete" begin="5.54s" dur="0.70s" fill="freeze"/></rect></clipPath>
+    <clipPath id="tl14"><rect x="467.0" y="418.6" width="0" height="23"><animate attributeName="width" values="0.0;8.7;17.4;26.1;34.8;43.5;52.2;60.9;69.6;78.3;87.0;95.7;104.4;113.1;121.8;130.5;139.2;147.9;156.6;165.3;174.0;182.7;191.4;200.1;208.8;217.5;226.2;234.9;243.6;252.3;261.0;269.7;278.4;287.1;295.8;304.5;313.2;321.9;330.6;339.3;348.0;356.7" keyTimes="0.0000;0.0244;0.0488;0.0732;0.0976;0.1220;0.1463;0.1707;0.1951;0.2195;0.2439;0.2683;0.2927;0.3171;0.3415;0.3659;0.3902;0.4146;0.4390;0.4634;0.4878;0.5122;0.5366;0.5610;0.5854;0.6098;0.6341;0.6585;0.6829;0.7073;0.7317;0.7561;0.7805;0.8049;0.8293;0.8537;0.8780;0.9024;0.9268;0.9512;0.9756;1.0000" calcMode="discrete" begin="6.31s" dur="0.44s" fill="freeze"/></rect></clipPath>
+    <clipPath id="tl15"><rect x="467.0" y="442.0" width="0" height="23"><animate attributeName="width" values="0.0;8.7;17.4;26.1;34.8;43.5;52.2;60.9;69.6;78.3;87.0;95.7;104.4;113.1;121.8;130.5;139.2;147.9;156.6;165.3;174.0;182.7;191.4;200.1;208.8;217.5;226.2;234.9;243.6;252.3;261.0;269.7;278.4;287.1;295.8;304.5;313.2;321.9;330.6;339.3;348.0;356.7;365.4;374.1;382.8" keyTimes="0.0000;0.0227;0.0455;0.0682;0.0909;0.1136;0.1364;0.1591;0.1818;0.2045;0.2273;0.2500;0.2727;0.2955;0.3182;0.3409;0.3636;0.3864;0.4091;0.4318;0.4545;0.4773;0.5000;0.5227;0.5455;0.5682;0.5909;0.6136;0.6364;0.6591;0.6818;0.7045;0.7273;0.7500;0.7727;0.7955;0.8182;0.8409;0.8636;0.8864;0.9091;0.9318;0.9545;0.9773;1.0000" calcMode="discrete" begin="6.81s" dur="0.47s" fill="freeze"/></rect></clipPath>
+    <clipPath id="tl16"><rect x="467.0" y="465.4" width="0" height="23"><animate attributeName="width" values="0.0;8.7;17.4;26.1;34.8;43.5;52.2;60.9;69.6;78.3;87.0;95.7;104.4;113.1;121.8;130.5;139.2;147.9;156.6;165.3;174.0;182.7;191.4;200.1;208.8;217.5;226.2;234.9;243.6;252.3;261.0;269.7;278.4;287.1;295.8;304.5;313.2;321.9;330.6;339.3;348.0;356.7;365.4;374.1;382.8;391.5;400.2;408.9;417.6;426.3;435.0;443.7;452.4;461.1;469.8;478.5;487.2;495.9;504.6" keyTimes="0.0000;0.0172;0.0345;0.0517;0.0690;0.0862;0.1034;0.1207;0.1379;0.1552;0.1724;0.1897;0.2069;0.2241;0.2414;0.2586;0.2759;0.2931;0.3103;0.3276;0.3448;0.3621;0.3793;0.3966;0.4138;0.4310;0.4483;0.4655;0.4828;0.5000;0.5172;0.5345;0.5517;0.5690;0.5862;0.6034;0.6207;0.6379;0.6552;0.6724;0.6897;0.7069;0.7241;0.7414;0.7586;0.7759;0.7931;0.8103;0.8276;0.8448;0.8621;0.8793;0.8966;0.9138;0.9310;0.9483;0.9655;0.9828;1.0000" calcMode="discrete" begin="7.34s" dur="0.63s" fill="freeze"/></rect></clipPath>
+    <clipPath id="tl17"><rect x="467.0" y="488.8" width="0" height="23"><animate attributeName="width" values="0.0;8.7;17.4;26.1;34.8;43.5;52.2;60.9;69.6;78.3;87.0;95.7;104.4;113.1;121.8;130.5;139.2;147.9;156.6;165.3;174.0;182.7;191.4;200.1;208.8;217.5;226.2;234.9;243.6;252.3;261.0;269.7;278.4;287.1;295.8;304.5;313.2;321.9;330.6;339.3;348.0;356.7;365.4;374.1;382.8;391.5;400.2;408.9;417.6;426.3;435.0;443.7" keyTimes="0.0000;0.0196;0.0392;0.0588;0.0784;0.0980;0.1176;0.1373;0.1569;0.1765;0.1961;0.2157;0.2353;0.2549;0.2745;0.2941;0.3137;0.3333;0.3529;0.3725;0.3922;0.4118;0.4314;0.4510;0.4706;0.4902;0.5098;0.5294;0.5490;0.5686;0.5882;0.6078;0.6275;0.6471;0.6667;0.6863;0.7059;0.7255;0.7451;0.7647;0.7843;0.8039;0.8235;0.8431;0.8627;0.8824;0.9020;0.9216;0.9412;0.9608;0.9804;1.0000" calcMode="discrete" begin="8.03s" dur="0.55s" fill="freeze"/></rect></clipPath>
+    <clipPath id="tl19"><rect x="467.0" y="535.6" width="0" height="23"><animate attributeName="width" values="0.0;8.7;17.4;26.1;34.8;43.5;52.2;60.9;69.6;78.3;87.0;95.7;104.4;113.1;121.8;130.5;139.2;147.9;156.6;165.3;174.0" keyTimes="0.0000;0.0500;0.1000;0.1500;0.2000;0.2500;0.3000;0.3500;0.4000;0.4500;0.5000;0.5500;0.6000;0.6500;0.7000;0.7500;0.8000;0.8500;0.9000;0.9500;1.0000" calcMode="discrete" begin="8.64s" dur="0.21s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#win)">
+    <rect width="1180" height="610" fill="url(#winBg)"/>
+
+    <!-- title bar -->
+    <rect width="1180" height="44" fill="url(#barBg)"/>
+    <line x1="0" y1="44" x2="1180" y2="44" stroke="#000000" stroke-opacity="0.55"/>
+    <line x1="0" y1="45" x2="1180" y2="45" stroke="#ffffff" stroke-opacity="0.04"/>
+    <circle cx="26" cy="22" r="6.5" fill="#ff5f57"/>
+    <circle cx="48" cy="22" r="6.5" fill="#febc2e"/>
+    <circle cx="70" cy="22" r="6.5" fill="#28c840"/>
+    <g transform="translate(551,14.5)" fill="none" stroke="#9aa0a8"
+       stroke-width="1.3" stroke-linejoin="round" opacity="0.98">
+      <path d="M1.6 0 H8 L12.5 4.5 V14 A1.6 1.6 0 0 1 10.9 15.6 H1.6 A1.6 1.6 0 0 1 0 14 V1.6 A1.6 1.6 0 0 1 1.6 0 Z"/>
+      <path d="M8 0 V4.5 H12.5"/>
+    </g>
+    <text x="573" y="27" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" opacity="0.98"
+          font-size="13" font-weight="600" fill="#9aa0a8">About me</text>
+
+    <!-- left: ascii portrait -->
+<g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" fill="url(#asciiGrad)">
+  <g opacity="0.98"><animate attributeName="opacity" values="0.98;0;0" keyTimes="0.0000;0.3333;0.6667" dur="1.6500000000000001s" calcMode="discrete" repeatCount="indefinite"/>
+    <text x="32.0" y="85.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                                                 </text>
+    <text x="32.0" y="95.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">             .                           `                       </text>
+    <text x="32.0" y="105.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">`   .                 ,    `                     ,`              </text>
+    <text x="32.0" y="115.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                `                         ,  .   </text>
+    <text x="32.0" y="125.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                                           ,  .  </text>
+    <text x="32.0" y="135.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                                  . ,            </text>
+    <text x="32.0" y="145.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                `     `    .                     </text>
+    <text x="32.0" y="155.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">          ,         ,                           .              ` </text>
+    <text x="32.0" y="165.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                   .`       .                                    </text>
+    <text x="32.0" y="175.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                :~=--!+=++!;                     </text>
+    <text x="32.0" y="185.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing"> `.    ,                    ,::~!-:,.::~i=+i+=!!~             ,  </text>
+    <text x="32.0" y="195.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">         .       ,     !'!-ii-'';,;--:~-'++~!i+i+i+=~            </text>
+    <text x="32.0" y="205.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                     '!+==+i!:,.,.;'!=i!''---=!~+=!=ii: .     `  </text>
+    <text x="32.0" y="215.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">               ,    :-!!=ii!`,.,`..`.:~~=~::!~~+~!i+=!-`         </text>
+    <text x="32.0" y="225.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">    `    `         '`'~'';;:.`.,```,..:=--~--~=i+=+~!==-         </text>
+    <text x="32.0" y="235.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">      ,            '',..,``,`.,...,,`,.:!:'!=!-!-~--!-~~:        </text>
+    <text x="32.0" y="245.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                  '',`.,`,,.;'!!~!-~:,,.~-;-!+===+-~!~-~i        </text>
+    <text x="32.0" y="255.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                  :`,,.,,::!i==+ix+i!~'``~'`;:!+==~=!=i~~`   ,   </text>
+    <text x="32.0" y="265.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                 :'``,`.;~iiiltxxxti=~'':`':.:-+=!-=++!-!:       </text>
+    <text x="32.0" y="275.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">  `       .      :;,,,.:!+tjfYjffjxtl=~!:`,'':'--==+=--::;       </text>
+    <text x="32.0" y="285.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                 t:``.;-++fGZOGYGGUfti-::,``:''~+=+-~;;'~~`      </text>
+    <text x="32.0" y="295.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                 8x-'`!ii+i+fOGjYG%fli-:;':,.:::~~!-;:``':,    ` </text>
+    <text x="32.0" y="305.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                 -lY-'':';''~++=--~=+=!'i~-';;';''',:;,,`..      </text>
+    <text x="32.0" y="315.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                   ~-!!'.,.;'!~-':;``:'-~i!!!:``.`;:`,,`.``      </text>
+    <text x="32.0" y="325.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                'xi~;~:'`;~:;tUi':..`:;--!+l+!!'`.,,..''.:,      </text>
+    <text x="32.0" y="335.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                 `` +=~~~:!-l#MUt!;'';!;--+jf=+~`,.,`,'';;`      </text>
+    <text x="32.0" y="345.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing"> `.              xl !xll=tljZ#8Z@%jti=ixOOjfYYtx-':';,'``!    `  </text>
+    <text x="32.0" y="355.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">             `   +=Gx+fUUGG@%8#%%@##Z8MM@M8ZOfffxi!;!;~+!-       </text>
+    <text x="32.0" y="365.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">     ,             -+lYOYijUZOM@%Y%###@M@M8ZGjfjjt~!ii-;i        </text>
+    <text x="32.0" y="375.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">   ,                i+tft;-i+;!lUUYGZZ@@8ZOUjYftYGx,'xti:        </text>
+    <text x="32.0" y="385.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">   .    `           -ixjl~';~l=iGM%GUUZUUUUffYxljGYf+YU+       , </text>
+    <text x="32.0" y="395.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">           .        -=i+!~=ljU%@@#@ZUGOGjjYYjYfjYYU%ZU! .        </text>
+    <text x="32.0" y="405.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">   .   ,            -i;:--~iiiixxfGZOUfYjjYYffjjG#MMU            </text>
+    <text x="32.0" y="415.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">  ,                  +!!iYYYUtfti=tYjfYjfYfYjYj+~YY=             </text>
+    <text x="32.0" y="425.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                     ;=~-!=+tffOUOlxYfYftfffjjx=~ ,              </text>
+    <text x="32.0" y="435.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                      ,~-~~!--iitllxltttlxtltill~                </text>
+    <text x="32.0" y="445.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                  ,     iljUOGUjYltx=xii+i~~!xYj!li              </text>
+    <text x="32.0" y="455.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                  .      ;~ixfUGUt+++~~---'!lfOU            `.   </text>
+    <text x="32.0" y="465.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                        ,..';;-!~::':'::::~xYUOx          `      </text>
+    <text x="32.0" y="475.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">     ,        ,       !+,';:'``,.,.:;;:~-+jjUOGY                 </text>
+    <text x="32.0" y="485.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">          .           +x-~---:;;;;::-~-=xffOUGUGU''+ x!          </text>
+    <text x="32.0" y="495.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                   ,     :!~!!'''''!~~=lYYOOUOOGOx+%Gx     ,,    </text>
+    <text x="32.0" y="505.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">  ,                 ,,   ~~!~-!'::~!+txljfOGGUZU8UUUUY  =x       </text>
+    <text x="32.0" y="515.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                        '-!-~!-:';-ixxltjjjOUGZ8GOGZ%8GUft'      </text>
+    <text x="32.0" y="525.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing"> `                      +,:-:::~~!=lttltjYjGGOOGfZ8Z888%Gj!    +;</text>
+    <text x="32.0" y="535.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                      'x=;.::'::;~~=illlxYfYGUUG%Z%8ZZZ%%88%Uitti</text>
+    <text x="32.0" y="545.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">            ..       =jl+!,.::'';-!~=+i==xljYUOO8Z%%%UjOOGO%%Z%Uf</text>
+    <text x="32.0" y="555.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                   tYfx-`'i-::;;;;~-i==+ltfOY==Y8M8U%UGOO8Z%8GGOU</text>
+    <text x="32.0" y="565.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                :=lxlx;.,,t+-ii!;:-~==ttxlGOl!,:!YZMZ88ZG%ZZZ%ZZ%</text>
+    <text x="32.0" y="575.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">             :illx+ll~,..`.;;:=l!=+itxjfOfYjj~;`,.:xUGOUf8Z888ZUU</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" values="0;0.98;0" keyTimes="0.0000;0.3333;0.6667" dur="1.6500000000000001s" calcMode="discrete" repeatCount="indefinite"/>
+    <text x="32.0" y="85.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                                                 </text>
+    <text x="32.0" y="95.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">             ,                           .                       </text>
+    <text x="32.0" y="105.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">,   `                 `    .                     ,,              </text>
+    <text x="32.0" y="115.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                .                         ,  .   </text>
+    <text x="32.0" y="125.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                                           `  `  </text>
+    <text x="32.0" y="135.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                                  , .            </text>
+    <text x="32.0" y="145.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                `     `    .                     </text>
+    <text x="32.0" y="155.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">          `         .                           .              . </text>
+    <text x="32.0" y="165.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                   `,       `                                    </text>
+    <text x="32.0" y="175.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                :-+~!-+==+-;                     </text>
+    <text x="32.0" y="185.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing"> ..    ,                    ,';!--;.`:;!i+=+=i~-~             `  </text>
+    <text x="32.0" y="195.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">         ,       `     ~;!~=+~;::`'!-'!-:+i-~iii====!            </text>
+    <text x="32.0" y="205.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                     ;!i+=ii!'`,.,::!i+~::---=~!ii-+==; ,     `  </text>
+    <text x="32.0" y="215.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">               .    ;~--=+=!`..`,...,;!-i!:;~--i~!ii+-~.         </text>
+    <text x="32.0" y="225.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">    `    `         '`;-':':'...,..`.`.;i~!!!-!iii==-!i+-         </text>
+    <text x="32.0" y="235.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">      ,            ;'`.`.``...,`,``,.`,'~:;!=~--!-!~-!!~:        </text>
+    <text x="32.0" y="245.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                  ';,,.,.,``''~~-!-~;..`~!'~~i=i==!!!!~-=        </text>
+    <text x="32.0" y="255.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                  :.,,,,.:'!=+i=ix+=~~:`,!',':-+=i~=-ii~~`   `   </text>
+    <text x="32.0" y="265.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                 ::,`,,`:!ii+xttllt+=~;:'.;;`:-==-~=+i-~-:       </text>
+    <text x="32.0" y="275.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">  `       ,      '',,,`;!+tfYfjjYjllt+~-:..;:;;~!=+ii!!;;;       </text>
+    <text x="32.0" y="285.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                 x:,,`;~=iYO%GOYGGUjxi~';``,;';~++=~-':;~!`      </text>
+    <text x="32.0" y="295.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                 8x~'`-++==ijUUYfU%jx=-''::.`':'~!!-'',,:',    , </text>
+    <text x="32.0" y="305.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                 !tj~:':;:':-++=~~~+++~:+~!;:'::;::`:'.,`.,      </text>
+    <text x="32.0" y="315.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                   ~-~!;`,`;:!--;';.,:'~-=!-~;.``,::..`,`.`      </text>
+    <text x="32.0" y="325.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                :x=!'!;:,'-':xG=''`..:;-!!=xi!-'..`..`;',:`      </text>
+    <text x="32.0" y="335.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                 `` =+!--'~!x##Gt-;';:~:--+jf==!..,,``':':`      </text>
+    <text x="32.0" y="345.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing"> ,,              tt !lxlillY%M8%MZYt+==lOGjfjjxl~;';:`:,.~    ,  </text>
+    <text x="32.0" y="355.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">             .   i=OxifGOOG#%%M%Z#@M8%#M#M8%Gjjjl=~:!:!i-~       </text>
+    <text x="32.0" y="365.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">     ,             -+tjOfijG8UMMZY%@MM@#MMZ8OjYjfx!!=i~:=        </text>
+    <text x="32.0" y="375.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">   `                =iljl:-ii;!tGUjO8ZM#ZZUGYYfxYUl,:tti;        </text>
+    <text x="32.0" y="385.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">   .    .           !=tYx!''~t+=O@%GGGZGUUGfYftxfGjf+jGi       ` </text>
+    <text x="32.0" y="395.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">           .        -i==~~itjGZMMM#%UGUGYjYYjffYfjO%8U- `        </text>
+    <text x="32.0" y="405.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">   ,   ,            !=;'~~!++i+xtYU8GGjfffYYfjffO###G            </text>
+    <text x="32.0" y="415.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">  `                  +~!ifjYGljt+ixYYYfjYffjYjji-jfi             </text>
+    <text x="32.0" y="425.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                     '=-~-=iljYUOUxlYjYjlYjYYYt=- .              </text>
+    <text x="32.0" y="435.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                      .~---!-~=+lxlttlxxlxxxxixl!                </text>
+    <text x="32.0" y="445.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                  .     +lYGGOOYfttl+l++ii!-!tfj!xi              </text>
+    <text x="32.0" y="455.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                  .      ;~ixYUUUli++-!~!~;~tfOU            ,.   </text>
+    <text x="32.0" y="465.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                        ```;;;!!-:';'';':;-ljUUx          `      </text>
+    <text x="32.0" y="475.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">     `        `       -i,''';.,....:;:;~~=YjGGUf                 </text>
+    <text x="32.0" y="485.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">          `           +x--~-~:'':;:'~--+xjYUGUGUG:'= x-          </text>
+    <text x="32.0" y="495.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                   ,     '~--!:::;:!-!itffOOOUGUUl+%Ul     ,`    </text>
+    <text x="32.0" y="505.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">  ,                 ,.   !-~-~-':;~~+xllfjOGOG8U%GGOUY  ix       </text>
+    <text x="32.0" y="515.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                        :!!~-!-;':!ittttfjYOOO88GOUZ88UUjl;      </text>
+    <text x="32.0" y="525.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing"> .                      i,:-:;;!-!ixxlltfYfUUGGUj%ZZ%88ZOj-    +;</text>
+    <text x="32.0" y="535.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                      'xi:,'::':'!~+ilxttjYjOGOU88%ZZZ%Z%888Gixti</text>
+    <text x="32.0" y="545.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">            ,.       +Yti!,.;;;':!~!=i++=lljjGGUZ%8Z%UYGUUO8Z%ZGf</text>
+    <text x="32.0" y="555.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                   lffl!`'i!;;'';:-~+===llfUY=+j%M8O%UUGOZZZ%UGOO</text>
+    <text x="32.0" y="565.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                :+xllx',..l+!++!';~-=+ttxtGGl-.;~j8MZ8ZZOZ8%88Z8%</text>
+    <text x="32.0" y="575.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">             ;=tttilx!``,,.::;il-=+=llYYUYfYY!;,,.'lGGGGf%%ZZZ%UO</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" values="0;0;0.98" keyTimes="0.0000;0.3333;0.6667" dur="1.6500000000000001s" calcMode="discrete" repeatCount="indefinite"/>
+    <text x="32.0" y="85.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                                                 </text>
+    <text x="32.0" y="95.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">             .                           ,                       </text>
+    <text x="32.0" y="105.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">,   `                 .    ,                     ,,              </text>
+    <text x="32.0" y="115.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                ,                         .  `   </text>
+    <text x="32.0" y="125.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                                           `  ,  </text>
+    <text x="32.0" y="135.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                                  ` ,            </text>
+    <text x="32.0" y="145.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                ,     .    ,                     </text>
+    <text x="32.0" y="155.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">          ,         ,                           ,              , </text>
+    <text x="32.0" y="165.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                   ,.       ,                                    </text>
+    <text x="32.0" y="175.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                                ;-=!~~=i=i!;                     </text>
+    <text x="32.0" y="185.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing"> ,.    ,                    ,':-!-'`,::!=++i=i-!!             `  </text>
+    <text x="32.0" y="195.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">         `       .     ~;~~i=!;;:,'-!;-!'+i!-iii=+=i~            </text>
+    <text x="32.0" y="205.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                     '!ii=i+!:`.`.;:!+i-;'~~-+~!==!+==' `     ,  </text>
+    <text x="32.0" y="215.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">               .    :~~-+==~..````,``'~-=!;'!~~+~-i=i!~`         </text>
+    <text x="32.0" y="225.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">    .    .         '`'!;::;;`..,`,.,..'=-~~-!~i==i=!~=+!         </text>
+    <text x="32.0" y="235.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">      ,            ;;,.`,.``,..,.`,`,.`:~:'~+~-!-!!!~---:        </text>
+    <text x="32.0" y="245.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                  ''.`,.,,..''~~~!~-:,`.--;--+==+i~-~~!!+        </text>
+    <text x="32.0" y="255.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                  ;`,,,.,:'-==+==lii~~;,`~;.;'-i=+-=-ii!~.   ,   </text>
+    <text x="32.0" y="265.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                 :;,..,`;!i==ttxtxt=i!;':.;'`'!=i!!=i+-!~'       </text>
+    <text x="32.0" y="275.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">  .       `      ;'.,.`;~+xjfYjffjltxi~-:``''':!~==+=--':'       </text>
+    <text x="32.0" y="285.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                 t:,,`'!=+fO%GGYOOUYl+-''..`;::-=+=-!';:~-,      </text>
+    <text x="32.0" y="295.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                 %t-;,-++=i=fUOjjGZYt=~;';:,.:''!~!-;;.,::,    . </text>
+    <text x="32.0" y="305.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                 -xj!:'':;;;~i++~~!=ii~:i-!';;:';''.:'`,,`.      </text>
+    <text x="32.0" y="315.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                   ---!:.,`':---;'',`';!-=!!-'.`..';``,..,.      </text>
+    <text x="32.0" y="325.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                :xi~;!':`:!;'lO=:;`..:;---=l+-!:..,`.`':,;,      </text>
+    <text x="32.0" y="335.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                 .` i+!~!'!-t@@Gl~';:'!:~~iYjii!,`.,``'';'`      </text>
+    <text x="32.0" y="345.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing"> ,`              tt ~ttx+txYZ@Z8#Zft=+itGOYYjYtx-:';'.:.`!    ,  </text>
+    <text x="32.0" y="355.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">             .   =+Gx=jGUUUM%%@8Z#M#%%#@##8ZUffYx+!:!;-i-~       </text>
+    <text x="32.0" y="365.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">     .             ~+ljOY+YUZG@MZfZ##M#@#@Z%GfYjfx!-i+~;+        </text>
+    <text x="32.0" y="375.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">   .                =iljx;-+='-lUOfUZ%@#8ZGUYfjxYUl`:tl+:        </text>
+    <text x="32.0" y="385.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">   ,    `           -+xjl-;'-ti+OM%OUG%UGGGfYfllfGYYiYO=       , </text>
+    <text x="32.0" y="395.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">           ,        ~+==!!+xjO%M@@#%GGUOYjYjfYfjjfGZ%G! ,        </text>
+    <text x="32.0" y="405.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">   .   `            !+':-~~=i+=tlYGZGGfjYjfjffYYG@MMG            </text>
+    <text x="32.0" y="415.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">  ,                  +~!iYfjOxft=ilffYjYYYjYfYY=!jji             </text>
+    <text x="32.0" y="425.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                     ;i~-!+ixjfOGGxxYffflYYYjYti- .              </text>
+    <text x="32.0" y="435.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                      `!!!!~-!++xlxxtttlxxtxt+lt~                </text>
+    <text x="32.0" y="445.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                  .     =lYUUGGYjltt+li++i--~xfY~l+              </text>
+    <text x="32.0" y="455.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                  .      '~itjGGOxii=-~-~-'-tjGU            ``   </text>
+    <text x="32.0" y="465.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                        ,.,'';-~~;:;';;;''~xjOGt          `      </text>
+    <text x="32.0" y="475.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">     ,        ,       !=,'::',..``,:':;--+jYOUOY                 </text>
+    <text x="32.0" y="485.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">          `           il~~!!-;;:;;;;!!!=xjYUOOOGU;:i l-          </text>
+    <text x="32.0" y="495.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                   ,     '-!!-;;;';--!+tYfGOUOGGOx=8Ul     .,    </text>
+    <text x="32.0" y="505.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">  ,                 .,   ~~~!!!'::-~=tlljfUGGGZGZOGUGf  ix       </text>
+    <text x="32.0" y="515.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                        :~~~!!-;::!+xltxYjfUUU8%OOG88ZOGfl;      </text>
+    <text x="32.0" y="525.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing"> `                      i,;-:''-!!ittttxYjYUUUGGY%Z88888OY-    +'</text>
+    <text x="32.0" y="535.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                      'li'.:;'':;!-==llttfjfOGGU%8%8%8Z8Z88ZO=xl=</text>
+    <text x="32.0" y="545.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">            ,`       +Yl+!,`::;';-!~+=+==xtYjOGOZ%%ZZGfUOUG%88%UY</text>
+    <text x="32.0" y="555.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                   xYjx!.;+~;'::':~-i+==tlYUfi=Y%@8GZOOUU%8ZZGOGO</text>
+    <text x="32.0" y="565.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">                :=lllt;,``x+!i=~''~~++tlltUGt~,:-YZMZ%88G%88%%Z88</text>
+    <text x="32.0" y="575.5" xml:space="preserve" textLength="390.0" lengthAdjust="spacing">             'ixlt=ll-``..,;';it-i=+ltYYOYYff!',.`:xOOGGfZ%88Z%GO</text>
+  </g>
+</g>
+
+    <!-- right: readout -->
+<g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14.5" opacity="0.98">
+  <text x="468.0" y="108.0" xml:space="preserve" clip-path="url(#tl0)"><tspan fill="#e8eaee" font-weight="700">vishaal</tspan><tspan fill="#8bd5a0">@</tspan><tspan fill="#e8eaee" font-weight="700">pillay</tspan><tspan fill="#41444c"> ───────────────────────────────────</tspan></text>
+  <text x="468.0" y="154.8" xml:space="preserve" clip-path="url(#tl2)"><tspan fill="#f0f2f5" font-weight="600">Role </tspan><tspan fill="#41444c">........</tspan><tspan fill="#b9bdc5"> Software Developer, AI Engineer</tspan></text>
+  <text x="468.0" y="178.2" xml:space="preserve" clip-path="url(#tl3)"><tspan fill="#f0f2f5" font-weight="600">Education </tspan><tspan fill="#41444c">...</tspan><tspan fill="#b9bdc5"> B.Tech CSE</tspan></text>
+  <text x="468.0" y="201.6" xml:space="preserve" clip-path="url(#tl4)"><tspan fill="#f0f2f5" font-weight="600">Location </tspan><tspan fill="#41444c">....</tspan><tspan fill="#b9bdc5"> Chennai, India</tspan></text>
+  <text x="468.0" y="248.4" xml:space="preserve" clip-path="url(#tl6)"><tspan fill="#41444c">── </tspan><tspan fill="#f0f2f5" font-weight="600">Contact </tspan><tspan fill="#41444c">───────────────────────────────────────</tspan></text>
+  <text x="468.0" y="271.8" xml:space="preserve" clip-path="url(#tl7)"><tspan fill="#f0f2f5" font-weight="600">LinkedIn </tspan><tspan fill="#41444c">....</tspan><tspan fill="#b9bdc5"> vishaal-pillay</tspan></text>
+  <text x="468.0" y="295.2" xml:space="preserve" clip-path="url(#tl8)"><tspan fill="#f0f2f5" font-weight="600">Instagram </tspan><tspan fill="#41444c">...</tspan><tspan fill="#b9bdc5"> Vishaal.Pillay</tspan></text>
+  <text x="468.0" y="318.6" xml:space="preserve" clip-path="url(#tl9)"><tspan fill="#f0f2f5" font-weight="600">Mail </tspan><tspan fill="#41444c">........</tspan><tspan fill="#b9bdc5"> vishaalpillay18@gmail.com</tspan></text>
+  <text x="468.0" y="365.4" xml:space="preserve" clip-path="url(#tl11)"><tspan fill="#41444c">── </tspan><tspan fill="#f0f2f5" font-weight="600">Stack </tspan><tspan fill="#41444c">─────────────────────────────────────────</tspan></text>
+  <text x="468.0" y="388.8" xml:space="preserve" clip-path="url(#tl12)"><tspan fill="#f0f2f5" font-weight="600">Languages </tspan><tspan fill="#41444c">...</tspan><tspan fill="#b9bdc5"> Python, C/C++, Java, JavaScript, TypeScript, SQL</tspan></text>
+  <text x="468.0" y="412.2" xml:space="preserve" clip-path="url(#tl13)"><tspan fill="#f0f2f5" font-weight="600">Frameworks </tspan><tspan fill="#41444c">..</tspan><tspan fill="#b9bdc5"> FastAPI, React, Next.js, Flask, SQLModel, Pydantic</tspan></text>
+  <text x="468.0" y="435.6" xml:space="preserve" clip-path="url(#tl14)"><tspan fill="#f0f2f5" font-weight="600">Dev Tools </tspan><tspan fill="#41444c">...</tspan><tspan fill="#b9bdc5"> GitHub, Docker, Azure, AWS</tspan></text>
+  <text x="468.0" y="459.0" xml:space="preserve" clip-path="url(#tl15)"><tspan fill="#f0f2f5" font-weight="600">CS Core </tspan><tspan fill="#41444c">.....</tspan><tspan fill="#b9bdc5"> DSA, OOP, DBMS, System Design</tspan></text>
+  <text x="468.0" y="482.4" xml:space="preserve" clip-path="url(#tl16)"><tspan fill="#f0f2f5" font-weight="600">AI / ML </tspan><tspan fill="#41444c">.....</tspan><tspan fill="#b9bdc5"> Agentic AI, RAG, Multi-Agent Orchestration,</tspan></text>
+  <text x="468.0" y="505.8" xml:space="preserve" clip-path="url(#tl17)"><tspan fill="#b9bdc5">               LLM Evaluation, MCP, AI Integration</tspan></text>
+  <text x="468.0" y="552.6" xml:space="preserve" clip-path="url(#tl19)"><tspan fill="#e8eaee" font-weight="700">vishaal</tspan><tspan fill="#8bd5a0">@</tspan><tspan fill="#e8eaee" font-weight="700">pillay</tspan><tspan fill="#b9bdc5"> ~ </tspan><tspan fill="#8bd5a0">% </tspan><tspan fill="#8bd5a0" fill-opacity="0"><animate attributeName="fill-opacity" values="1;0" keyTimes="0;0.5" dur="1.1s" calcMode="discrete" begin="9.11s" repeatCount="indefinite"/>█</tspan></text>
+</g>
+
+    <rect width="1180" height="610" fill="url(#scan)"/>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1178.5" height="608.5" rx="15.5"
+        fill="none" stroke="url(#winEdge)" stroke-width="1.5"/>
+</svg>
